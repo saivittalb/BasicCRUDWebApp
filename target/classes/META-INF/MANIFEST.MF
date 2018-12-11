@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sai_vittal.b
+Build-Jdk: 11.0.1
+Implementation-Title: crudAppBackend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.saivittalb
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/crudAppBackend
+Created-By: Maven Integration for Eclipse
+

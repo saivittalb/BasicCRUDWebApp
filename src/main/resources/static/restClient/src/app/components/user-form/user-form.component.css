@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+.user_w {
+    border: 1px solid rgba(0, 0, 0, 0.0);
+    border-radius: 50px;
+    padding: 0 40px;
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+    -webkit-box-shadow: 0px 0px 25px 3px rgba(0,0,0,0.45);
+    -moz-box-shadow: 0px 0px 25px 3px rgba(0,0,0,0.45);
+    box-shadow: 0px 0px 25px 3px rgba(0,0,0,0.45);
+  }
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    text-align: center;
+    font-size: 200%;
+    color: #333333;
+    margin: 20px 0px 20px;
+  }
+
+input[type="text"] {
+    font-family: "Open Sans", sans-serif;
+    width: 50%;
+    margin-left: 15px;
+    padding: 5px;
+    border: 1px solid #ADBDC5;
+    border-radius: 10px;
+    font-size: 100%;
+    margin-top: 27.5px;
+  }
+
+input[type="submit"] {
+    font-family: "Open Sans", sans-serif;
+    background-color: #64C13A;
+    border: none;
+    border-radius: 30px;
+    padding: 8px 30px;
+    margin: 50px 0px;
+    margin-left: 120px;
+    color: white;
+    font-weight: bold;
+    font-size: 125%;
+    letter-spacing: 1px;
+  }
+
+label {
+    font-family: "Open Sans", sans-serif;
+    font-size: 125%;
+    float: left;
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+}

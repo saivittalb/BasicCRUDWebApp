@@ -1,0 +1,21 @@
+<div class="container">
+  <h1 class="title">Welcome to the App! Users are listed below 👇</h1>
+  <table class="table table-striped">
+    <thead>
+      <th>Id</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Options</th>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users">
+        <td>{{user.id}}</td>
+        <td>{{user.fname}}</td>
+        <td>{{user.lname}}</td>
+        <td><button class="button_edit_user" (click)="updateUser(user)">Edit</button>
+            <button class="button_delete_user" (click)="deleteUser(user)">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
+  <button class="button_new_user" (click)="newUser()">New User</button>
+</div>

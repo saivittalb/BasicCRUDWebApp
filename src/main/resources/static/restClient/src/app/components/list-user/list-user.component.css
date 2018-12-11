@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+.title {
+  font-family: "Open Sans", sans-serif;
+  width: 100%;
+  text-align: center;
+  font-size: 225%;
+  color: #333333;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+table {
+  font-family: "Open Sans", sans-serif;
+  font-size: 125%;
+  width: 100%;
+}
+  
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+  
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.button_edit_user {
+  font-family: "Open Sans", sans-serif;
+  background-color: #1F8CE9;
+  border: none;
+  border-radius: 30px;
+  padding: 8px 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 75%;
+  letter-spacing: 1px;
+}
+
+.button_delete_user {
+  font-family: "Open Sans", sans-serif;
+  background-color: #B22222;
+  border: none;
+  border-radius: 30px;
+  padding: 8px 30px;
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 75%;
+  letter-spacing: 1px;
+}
+
+.button_new_user {
+  font-family: "Open Sans", sans-serif;
+  background-color: #1F8CE9;
+  border: none;
+  border-radius: 30px;
+  padding: 8px 30px;
+  margin: 100px 0px;
+  margin-left: 625px;
+  color: white;
+  font-weight: bold;
+  font-size: 125%;
+  letter-spacing: 1px;
+}
