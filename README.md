@@ -1,4 +1,5 @@
 # BasicCRUDWebApp
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6b7a2eba1bb4198a47940fdd50ec7a2)](https://app.codacy.com/app/saivittalb/BasicCRUDWebApp?utm_source=github.com&utm_medium=referral&utm_content=saivittalb/BasicCRUDWebApp&utm_campaign=Badge_Grade_Dashboard)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 An application performing CRUD operation using Spring MVC and Hibernate which is connected to a database. Front End used is Angular 6. Made with Eclipse Java EE and Visual Studio Code.
